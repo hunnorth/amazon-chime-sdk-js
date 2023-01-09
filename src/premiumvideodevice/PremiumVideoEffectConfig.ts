@@ -6,8 +6,8 @@
  * applied onto a [[PremiumVideoTransformDevice]] via a [[PremiumVideoEffectEngine]]
  */
 export default interface PremiumVideoEffectConfig {
-    /** Dummy effect for time being -- but will shift video for blur emphasis. */
-    blueShiftEnabled: boolean;
-    /** Dummy effect for time being -- but will shift video for red emphasis. */
-    redShiftEnabled: boolean;
+  /** Dummy effect for time being -- but will shift video for blur emphasis. */
+  blueShiftEnabled: boolean;
+  /** Dummy effect for time being -- but will shift video for red emphasis. */
+  redShiftEnabled: boolean;
 }
